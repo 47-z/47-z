@@ -1,4 +1,3 @@
-<div background-color:#949494;>
 <div class="header" align="center">
   <img src="https://file.garden/ZT_Uy1MKnEU1c7Kr/Resources/1212959227530977331.png" width=100>
   <p>
@@ -20,5 +19,4 @@
   <p>
     have a good day/night :)
   </p>
-</div>
 </div>
