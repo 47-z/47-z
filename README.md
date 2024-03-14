@@ -14,7 +14,7 @@
     <br>
     My main special interests include Overwatch, TF2, FNAF, and technology
     <br>
-    <a href="47-z.github.io">Check out my under construction site!</a>
+    <a href="https://47-z.github.io">Check out my under construction site!</a>
   </p>
 
   <p>
